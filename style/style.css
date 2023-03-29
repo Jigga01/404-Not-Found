@@ -1,0 +1,82 @@
+.img-container { 
+    width: 100%; 
+    height: auto;
+} 
+
+main { 
+    display: flex;
+    padding: 30px;
+    justify-content: center;
+
+}
+
+
+.img-tt {
+    margin-right: 120px;
+}
+
+
+#page-bold {
+font-size: 58px;
+font-family: 'Space Mono', monospace;
+font-weight: 700;
+line-height: 94.78%;
+}
+
+#page-p {
+    font-family: 'Space Mono';
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: -0.035em;
+text-align: left;
+}
+
+.button{
+position:;
+width: 216px;
+height: 68px;
+left: 740px;
+top: 663px;
+background-color: #333333;
+font-family: 'space mono';
+font-size: 14px;
+font-weight: 700;
+line-height: 20.73px;
+letter-spacing: -3.5%;
+line-height: 21px;
+text-transform: uppercase;
+color:  #FFFFFF;
+}
+
+@media only screen and (max-width: 600px) {
+  main{
+    flex-direction: column;
+}
+
+ #page-bold {
+  
+}
+}
+
+#footer {
+  
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+color: #BDBDBD;
+
+}
+
+#p404{
+font-family: 'Inconsolata';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+}
