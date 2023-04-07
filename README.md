@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{https://jigga01.github.io/404-Not-Found/}">
+    <a href="https://https://jigga01.github.io/404-Not-Found/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{https://github.com/Jigga01/404-Not-Found}">
+    <a href="https://https://github.com/Jigga01/404-Not-Found">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/Jigga01})
-- Twitter [@your-twitter](https://{twitter.com/_Olanrewaju1})
+- Website [your-website.com](https://your-web-site-link)
+- GitHub [@your-username](https://github.com/Jigga01)
+- Twitter [@your-twitter](https://twitter.com/_Olanrewaju1)
